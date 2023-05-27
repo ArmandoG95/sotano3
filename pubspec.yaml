@@ -1,0 +1,27 @@
+name: sotano3
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  cloud_firestore: ^4.5.3
+  firebase_core: ^2.9.0
+  flutter:
+    sdk: flutter
+  uuid: ^3.0.7
+  cached_network_image: ^3.1.0
+  firebase_analytics: ^10.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+      - assets/logotipo.png
+  uses-material-design: true
+

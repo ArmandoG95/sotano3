@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>464938588234-q7ppfm1oelm2vf47ee87fgrp4udnhvt9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.464938588234-q7ppfm1oelm2vf47ee87fgrp4udnhvt9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVpJc5BatJXkkhcW1d0g7UtUWW0qCk9TU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>464938588234</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sotano3</string>
+	<key>PROJECT_ID</key>
+	<string>sotano3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sotano3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:464938588234:ios:7d244e1465705a9dcf6eb3</string>
+</dict>
+</plist>

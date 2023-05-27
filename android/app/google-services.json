@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464938588234",
+    "project_id": "sotano3",
+    "storage_bucket": "sotano3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464938588234:android:e745251e317be00ccf6eb3",
+        "android_client_info": {
+          "package_name": "com.example.sotano3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464938588234-6civ6gut57rf3bdesi82losfvv5be6o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbupz9Jjk-ny65ezbPpIVL2xjAC5GnjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464938588234-6civ6gut57rf3bdesi82losfvv5be6o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
